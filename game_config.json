@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "version": 1,
+    "last_updated": "2026-01-12"
+  },
+  "collections": [
+    {
+      "id": "col_china",
+      "name": "China",
+      "sort_index": 1,
+      "cover_url": "https://picsum.photos/seed/china_cover/600/800",
+      "folder_name": "china",
+      "total_levels": 25,
+      "levels": [
+        { "id": "lvl_china_01", "level_no": 1, "grid_pos": 0, "img_url": "https://picsum.photos/seed/china_01/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_02", "level_no": 2, "grid_pos": 1, "img_url": "https://picsum.photos/seed/china_02/800/800", "difficulty": "3x3", "par_time_sec": 35 },
+        { "id": "lvl_china_03", "level_no": 3, "grid_pos": 2, "img_url": "https://picsum.photos/seed/china_03/800/800", "difficulty": "3x3", "par_time_sec": 40 },
+        { "id": "lvl_china_04", "level_no": 4, "grid_pos": 3, "img_url": "https://picsum.photos/seed/china_04/800/800", "difficulty": "3x3", "par_time_sec": 45 },
+        { "id": "lvl_china_05", "level_no": 5, "grid_pos": 4, "img_url": "https://picsum.photos/seed/china_05/800/800", "difficulty": "4x4", "par_time_sec": 50 },
+        { "id": "lvl_china_06", "level_no": 6, "grid_pos": 5, "img_url": "https://picsum.photos/seed/china_06/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_07", "level_no": 7, "grid_pos": 6, "img_url": "https://picsum.photos/seed/china_07/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_08", "level_no": 8, "grid_pos": 7, "img_url": "https://picsum.photos/seed/china_08/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_09", "level_no": 9, "grid_pos": 8, "img_url": "https://picsum.photos/seed/china_09/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_10", "level_no": 10, "grid_pos": 9, "img_url": "https://picsum.photos/seed/china_10/800/800", "difficulty": "4x4", "par_time_sec": 50 },
+        { "id": "lvl_china_11", "level_no": 11, "grid_pos": 10, "img_url": "https://picsum.photos/seed/china_11/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_12", "level_no": 12, "grid_pos": 11, "img_url": "https://picsum.photos/seed/china_12/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_13", "level_no": 13, "grid_pos": 12, "img_url": "https://picsum.photos/seed/china_13/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_14", "level_no": 14, "grid_pos": 13, "img_url": "https://picsum.photos/seed/china_14/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_15", "level_no": 15, "grid_pos": 14, "img_url": "https://picsum.photos/seed/china_15/800/800", "difficulty": "4x4", "par_time_sec": 50 },
+        { "id": "lvl_china_16", "level_no": 16, "grid_pos": 15, "img_url": "https://picsum.photos/seed/china_16/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_17", "level_no": 17, "grid_pos": 16, "img_url": "https://picsum.photos/seed/china_17/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_18", "level_no": 18, "grid_pos": 17, "img_url": "https://picsum.photos/seed/china_18/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_19", "level_no": 19, "grid_pos": 18, "img_url": "https://picsum.photos/seed/china_19/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_20", "level_no": 20, "grid_pos": 19, "img_url": "https://picsum.photos/seed/china_20/800/800", "difficulty": "4x4", "par_time_sec": 50 },
+        { "id": "lvl_china_21", "level_no": 21, "grid_pos": 20, "img_url": "https://picsum.photos/seed/china_21/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_22", "level_no": 22, "grid_pos": 21, "img_url": "https://picsum.photos/seed/china_22/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_23", "level_no": 23, "grid_pos": 22, "img_url": "https://picsum.photos/seed/china_23/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_24", "level_no": 24, "grid_pos": 23, "img_url": "https://picsum.photos/seed/china_24/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_china_25", "level_no": 25, "grid_pos": 24, "img_url": "https://picsum.photos/seed/china_25/800/800", "difficulty": "5x5", "par_time_sec": 60 }
+      ]
+    },
+    {
+      "id": "col_usa",
+      "name": "USA",
+      "sort_index": 2,
+      "cover_url": "https://picsum.photos/seed/usa_cover/600/800",
+      "folder_name": "usa",
+      "total_levels": 25,
+      "levels": [
+        { "id": "lvl_usa_01", "level_no": 1, "grid_pos": 0, "img_url": "https://picsum.photos/seed/usa_01/800/800", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_usa_02", "level_no": 2, "grid_pos": 1, "img_url": "https://picsum.photos/seed/usa_02/800/800", "difficulty": "3x3", "par_time_sec": 35 }
+        ]
+    }
+  ]
+}
