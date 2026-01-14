@@ -16,7 +16,7 @@
         { "id": "lvl_china_02", "level_no": 2, "grid_pos": 1, "img_url": "https://github.com/theappscrafter/static-resource/blob/main/collections/china/2.jpg", "difficulty": "3x3", "par_time_sec": 35 },
         { "id": "lvl_china_03", "level_no": 3, "grid_pos": 2, "img_url": "https://github.com/theappscrafter/static-resource/blob/main/collections/china/3.jpg", "difficulty": "3x3", "par_time_sec": 40 },
         { "id": "lvl_china_04", "level_no": 4, "grid_pos": 3, "img_url": "https://github.com/theappscrafter/static-resource/blob/main/collections/china/4.jpg", "difficulty": "3x3", "par_time_sec": 45 },
-        { "id": "lvl_china_05", "level_no": 5, "grid_pos": 4, "img_url": "https://github.com/theappscrafter/static-resource/blob/main/collections/china/5.jpg", "difficulty": "4x4", "par_time_sec": 50 },
+        { "id": "lvl_china_05", "level_no": 5, "grid_pos": 4, "img_url": "https://github.com/theappscrafter/static-resource/blob/main/collections/china/5.jpg", "difficulty": "4x4", "par_time_sec": 50 }
       ]
     },
     {
@@ -31,7 +31,7 @@
         { "id": "lvl_usa_02", "level_no": 2, "grid_pos": 1, "img_url": "https://github.com/theappscrafter/static-resource/blob/main/collections/america/1.jpg", "difficulty": "3x3", "par_time_sec": 35 },
         { "id": "lvl_usa_03", "level_no": 3, "grid_pos": 2, "img_url": "https://github.com/theappscrafter/static-resource/blob/main/collections/america/1.jpg", "difficulty": "3x3", "par_time_sec": 30 },
         { "id": "lvl_usa_04", "level_no": 4, "grid_pos": 3, "img_url": "https://github.com/theappscrafter/static-resource/blob/main/collections/america/1.jpg", "difficulty": "4x4", "par_time_sec": 30 },
-        { "id": "lvl_usa_05", "level_no": 5, "grid_pos": 4, "img_url": "https://github.com/theappscrafter/static-resource/blob/main/collections/america/1.jpg", "difficulty": "3x3", "par_time_sec": 30 },
+        { "id": "lvl_usa_05", "level_no": 5, "grid_pos": 4, "img_url": "https://github.com/theappscrafter/static-resource/blob/main/collections/america/1.jpg", "difficulty": "3x3", "par_time_sec": 30 }
       ]
     }
   ]
