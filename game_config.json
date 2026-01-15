@@ -8,7 +8,7 @@
       "id": "col_china",
       "name": "China",
       "sort_index": 1,
-      "cover_url": "https://picsum.photos/seed/china_cover/600/800",
+      "cover_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/cover.jpg",
       "folder_name": "china",
       "total_levels": 15,
       "levels": [
@@ -33,7 +33,7 @@
       "id": "col_america",
       "name": "America",
       "sort_index": 2,
-      "cover_url": "https://picsum.photos/seed/usa_cover/600/800",
+      "cover_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/cover.jpg",
       "folder_name": "america",
       "total_levels": 15,
       "levels": [
@@ -58,7 +58,7 @@
       "id": "col_canada",
       "name": "Canada",
       "sort_index": 3,
-      "cover_url": "https://picsum.photos/seed/canada_cover/600/800",
+      "cover_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/cover.jpg",
       "folder_name": "canada",
       "total_levels": 15,
       "levels": [
