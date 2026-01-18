@@ -52,6 +52,7 @@
         { "id": "lvl_america_13", "level_no": 13, "grid_pos": 12, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/13.jpg", "difficulty": "5x5", "par_time_sec": 85 },
         { "id": "lvl_america_14", "level_no": 14, "grid_pos": 13, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/14.jpg", "difficulty": "5x5", "par_time_sec": 95 },
         { "id": "lvl_america_15", "level_no": 15, "grid_pos": 14, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/15.jpg", "difficulty": "5x5", "par_time_sec": 105 }
+        { "id": "lvl_america_16", "level_no": 16, "grid_pos": 14, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/16.jpg", "difficulty": "5x5", "par_time_sec": 110 }
       ]
     },
     {
