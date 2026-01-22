@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-01-15"
+    "last_updated": "2026-01-23"
   },
   "collections": [
     {
@@ -10,7 +10,7 @@
       "sort_index": 1,
       "cover_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/cover.jpg",
       "folder_name": "china",
-      "total_levels": 15,
+      "total_levels": 25,
       "levels": [
         { "id": "lvl_china_01", "level_no": 1, "grid_pos": 0, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/1.jpg", "difficulty": "2x2", "par_time_sec": 30 },
         { "id": "lvl_china_02", "level_no": 2, "grid_pos": 1, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/2.jpg", "difficulty": "2x2", "par_time_sec": 35 },
@@ -26,7 +26,17 @@
         { "id": "lvl_china_12", "level_no": 12, "grid_pos": 11, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/12.jpg", "difficulty": "2x2", "par_time_sec": 85 },
         { "id": "lvl_china_13", "level_no": 13, "grid_pos": 12, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/13.jpg", "difficulty": "2x2", "par_time_sec": 90 },
         { "id": "lvl_china_14", "level_no": 14, "grid_pos": 13, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/14.jpg", "difficulty": "2x2", "par_time_sec": 100 },
-        { "id": "lvl_china_15", "level_no": 15, "grid_pos": 14, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/15.jpg", "difficulty": "2x2", "par_time_sec": 110 }
+        { "id": "lvl_china_15", "level_no": 15, "grid_pos": 14, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/15.jpg", "difficulty": "2x2", "par_time_sec": 110 },
+        { "id": "lvl_china_16", "level_no": 16, "grid_pos": 15, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/16.jpg", "difficulty": "3x3", "par_time_sec": 120 },
+        { "id": "lvl_china_17", "level_no": 17, "grid_pos": 16, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/17.jpg", "difficulty": "3x3", "par_time_sec": 130 },
+        { "id": "lvl_china_18", "level_no": 18, "grid_pos": 17, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/18.jpg", "difficulty": "3x3", "par_time_sec": 140 },
+        { "id": "lvl_china_19", "level_no": 19, "grid_pos": 18, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/19.jpg", "difficulty": "3x3", "par_time_sec": 150 },
+        { "id": "lvl_china_20", "level_no": 20, "grid_pos": 19, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/20.jpg", "difficulty": "4x4", "par_time_sec": 160 },
+        { "id": "lvl_china_21", "level_no": 21, "grid_pos": 20, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/21.jpg", "difficulty": "4x4", "par_time_sec": 170 },
+        { "id": "lvl_china_22", "level_no": 22, "grid_pos": 21, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/22.jpg", "difficulty": "4x4", "par_time_sec": 180 },
+        { "id": "lvl_china_23", "level_no": 23, "grid_pos": 22, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/23.jpg", "difficulty": "5x5", "par_time_sec": 200 },
+        { "id": "lvl_china_24", "level_no": 24, "grid_pos": 23, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/24.jpg", "difficulty": "5x5", "par_time_sec": 220 },
+        { "id": "lvl_china_25", "level_no": 25, "grid_pos": 24, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/china/25.jpg", "difficulty": "6x6", "par_time_sec": 250 }
       ]
     },
     {
@@ -35,7 +45,7 @@
       "sort_index": 2,
       "cover_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/cover.jpg",
       "folder_name": "america",
-      "total_levels": 15,
+      "total_levels": 25,
       "levels": [
         { "id": "lvl_america_01", "level_no": 1, "grid_pos": 0, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/1.jpg", "difficulty": "3x3", "par_time_sec": 30 },
         { "id": "lvl_america_02", "level_no": 2, "grid_pos": 1, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/2.jpg", "difficulty": "3x3", "par_time_sec": 35 },
@@ -52,7 +62,16 @@
         { "id": "lvl_america_13", "level_no": 13, "grid_pos": 12, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/13.jpg", "difficulty": "5x5", "par_time_sec": 85 },
         { "id": "lvl_america_14", "level_no": 14, "grid_pos": 13, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/14.jpg", "difficulty": "5x5", "par_time_sec": 95 },
         { "id": "lvl_america_15", "level_no": 15, "grid_pos": 14, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/15.jpg", "difficulty": "5x5", "par_time_sec": 105 },
-        { "id": "lvl_america_16", "level_no": 16, "grid_pos": 15, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/16.jpg", "difficulty": "5x5", "par_time_sec": 110 }
+        { "id": "lvl_america_16", "level_no": 16, "grid_pos": 15, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/16.jpg", "difficulty": "6x6", "par_time_sec": 120 },
+        { "id": "lvl_america_17", "level_no": 17, "grid_pos": 16, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/17.jpg", "difficulty": "6x6", "par_time_sec": 130 },
+        { "id": "lvl_america_18", "level_no": 18, "grid_pos": 17, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/18.jpg", "difficulty": "6x6", "par_time_sec": 140 },
+        { "id": "lvl_america_19", "level_no": 19, "grid_pos": 18, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/19.jpg", "difficulty": "7x7", "par_time_sec": 160 },
+        { "id": "lvl_america_20", "level_no": 20, "grid_pos": 19, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/20.jpg", "difficulty": "7x7", "par_time_sec": 180 },
+        { "id": "lvl_america_21", "level_no": 21, "grid_pos": 20, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/21.jpg", "difficulty": "7x7", "par_time_sec": 200 },
+        { "id": "lvl_america_22", "level_no": 22, "grid_pos": 21, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/22.jpg", "difficulty": "8x8", "par_time_sec": 230 },
+        { "id": "lvl_america_23", "level_no": 23, "grid_pos": 22, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/23.jpg", "difficulty": "8x8", "par_time_sec": 260 },
+        { "id": "lvl_america_24", "level_no": 24, "grid_pos": 23, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/24.jpg", "difficulty": "8x8", "par_time_sec": 300 },
+        { "id": "lvl_america_25", "level_no": 25, "grid_pos": 24, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/america/25.jpg", "difficulty": "8x8", "par_time_sec": 350 }
       ]
     },
     {
@@ -61,7 +80,7 @@
       "sort_index": 3,
       "cover_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/cover.jpg",
       "folder_name": "canada",
-      "total_levels": 15,
+      "total_levels": 25,
       "levels": [
         { "id": "lvl_canada_01", "level_no": 1, "grid_pos": 0, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/1.jpg", "difficulty": "3x3", "par_time_sec": 30 },
         { "id": "lvl_canada_02", "level_no": 2, "grid_pos": 1, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/2.jpg", "difficulty": "3x3", "par_time_sec": 35 },
@@ -77,7 +96,17 @@
         { "id": "lvl_canada_12", "level_no": 12, "grid_pos": 11, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/12.jpg", "difficulty": "5x5", "par_time_sec": 85 },
         { "id": "lvl_canada_13", "level_no": 13, "grid_pos": 12, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/13.jpg", "difficulty": "6x6", "par_time_sec": 90 },
         { "id": "lvl_canada_14", "level_no": 14, "grid_pos": 13, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/14.jpg", "difficulty": "6x6", "par_time_sec": 100 },
-        { "id": "lvl_canada_15", "level_no": 15, "grid_pos": 14, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/15.jpg", "difficulty": "6x6", "par_time_sec": 110 }
+        { "id": "lvl_canada_15", "level_no": 15, "grid_pos": 14, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/15.jpg", "difficulty": "6x6", "par_time_sec": 110 },
+        { "id": "lvl_canada_16", "level_no": 16, "grid_pos": 15, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/16.jpg", "difficulty": "6x6", "par_time_sec": 120 },
+        { "id": "lvl_canada_17", "level_no": 17, "grid_pos": 16, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/17.jpg", "difficulty": "7x7", "par_time_sec": 140 },
+        { "id": "lvl_canada_18", "level_no": 18, "grid_pos": 17, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/18.jpg", "difficulty": "7x7", "par_time_sec": 160 },
+        { "id": "lvl_canada_19", "level_no": 19, "grid_pos": 18, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/19.jpg", "difficulty": "7x7", "par_time_sec": 180 },
+        { "id": "lvl_canada_20", "level_no": 20, "grid_pos": 19, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/20.jpg", "difficulty": "8x8", "par_time_sec": 220 },
+        { "id": "lvl_canada_21", "level_no": 21, "grid_pos": 20, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/21.jpg", "difficulty": "8x8", "par_time_sec": 240 },
+        { "id": "lvl_canada_22", "level_no": 22, "grid_pos": 21, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/22.jpg", "difficulty": "8x8", "par_time_sec": 260 },
+        { "id": "lvl_canada_23", "level_no": 23, "grid_pos": 22, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/23.jpg", "difficulty": "8x8", "par_time_sec": 280 },
+        { "id": "lvl_canada_24", "level_no": 24, "grid_pos": 23, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/24.jpg", "difficulty": "8x8", "par_time_sec": 300 },
+        { "id": "lvl_canada_25", "level_no": 25, "grid_pos": 24, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/canada/25.jpg", "difficulty": "8x8", "par_time_sec": 350 }
       ]
     },
     {
@@ -86,7 +115,7 @@
       "sort_index": 4,
       "cover_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/cover.jpg",
       "folder_name": "italy",
-      "total_levels": 15,
+      "total_levels": 25,
       "levels": [
         { "id": "lvl_italy_01", "level_no": 1, "grid_pos": 0, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/1.jpg", "difficulty": "3x3", "par_time_sec": 30 },
         { "id": "lvl_italy_02", "level_no": 2, "grid_pos": 1, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/2.jpg", "difficulty": "3x3", "par_time_sec": 35 },
@@ -102,7 +131,17 @@
         { "id": "lvl_italy_12", "level_no": 12, "grid_pos": 11, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/12.jpg", "difficulty": "5x5", "par_time_sec": 85 },
         { "id": "lvl_italy_13", "level_no": 13, "grid_pos": 12, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/13.jpg", "difficulty": "6x6", "par_time_sec": 90 },
         { "id": "lvl_italy_14", "level_no": 14, "grid_pos": 13, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/14.jpg", "difficulty": "6x6", "par_time_sec": 100 },
-        { "id": "lvl_italy_15", "level_no": 15, "grid_pos": 14, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/15.jpg", "difficulty": "6x6", "par_time_sec": 110 }
+        { "id": "lvl_italy_15", "level_no": 15, "grid_pos": 14, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/15.jpg", "difficulty": "6x6", "par_time_sec": 110 },
+        { "id": "lvl_italy_16", "level_no": 16, "grid_pos": 15, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/16.jpg", "difficulty": "6x6", "par_time_sec": 120 },
+        { "id": "lvl_italy_17", "level_no": 17, "grid_pos": 16, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/17.jpg", "difficulty": "7x7", "par_time_sec": 140 },
+        { "id": "lvl_italy_18", "level_no": 18, "grid_pos": 17, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/18.jpg", "difficulty": "7x7", "par_time_sec": 160 },
+        { "id": "lvl_italy_19", "level_no": 19, "grid_pos": 18, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/19.jpg", "difficulty": "7x7", "par_time_sec": 180 },
+        { "id": "lvl_italy_20", "level_no": 20, "grid_pos": 19, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/20.jpg", "difficulty": "8x8", "par_time_sec": 220 },
+        { "id": "lvl_italy_21", "level_no": 21, "grid_pos": 20, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/21.jpg", "difficulty": "8x8", "par_time_sec": 240 },
+        { "id": "lvl_italy_22", "level_no": 22, "grid_pos": 21, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/22.jpg", "difficulty": "8x8", "par_time_sec": 260 },
+        { "id": "lvl_italy_23", "level_no": 23, "grid_pos": 22, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/23.jpg", "difficulty": "8x8", "par_time_sec": 280 },
+        { "id": "lvl_italy_24", "level_no": 24, "grid_pos": 23, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/24.jpg", "difficulty": "8x8", "par_time_sec": 300 },
+        { "id": "lvl_italy_25", "level_no": 25, "grid_pos": 24, "img_url": "https://raw.githubusercontent.com/theappscrafter/static-resource/main/collections/italy/25.jpg", "difficulty": "8x8", "par_time_sec": 350 }
       ]
     }
   ]
